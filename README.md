@@ -71,4 +71,6 @@ FASTCUT
 
 ## 📄 授權 (License)
 
-MIT License. 自由使用、修改與分享！
+本專案採用 **[GNU General Public License v3.0 (GPLv3)](LICENSE)** 授權開源。
+* 任何人皆可自由使用、研究、修改與分發本軟體。
+* **強傳染性開源**：任何修改或衍生版本若公開發布，亦必須以 GPLv3 條款免費開源源代碼。
